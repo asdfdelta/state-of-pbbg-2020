@@ -1,10 +1,12 @@
 <script>
-	export let name;
+    export let year;
+    import { Button } from 'svelte-materialify/src';
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>State of PBBG {year}</h1>
+    <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+    <Button>Test This</Button>
 </main>
 
 <style>
