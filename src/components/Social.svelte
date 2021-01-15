@@ -1,6 +1,5 @@
 <script>
-    import { Icon, Button } from 'svelte-materialify/src';
-    import { mdiTwitter } from '@mdi/js';
+    import { Button } from 'svelte-materialify/src';
   </script>
 
 <section id="social">
