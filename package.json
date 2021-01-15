@@ -6,11 +6,15 @@
     "dev": "sapper dev",
     "build": "sapper build --legacy",
     "export": "sapper export --legacy",
-    "start": "node __sapper__/build"
+    "start": "node __sapper__/build",
+    "db": "start \"SoP DB\" /D \"C:/Program Files/MongoDB/Server/4.4/bin/\" mongod.exe --dbpath=\"C:/Users/CGraves/Documents/State of PBBG/\""
   },
   "dependencies": {
+    "@mdi/font": "^5.8.55",
+    "@mdi/js": "^5.8.55",
     "compression": "^1.7.1",
     "material-theme": "^3.0.1",
+    "mongoose": "^5.11.9",
     "polka": "next",
     "postcss": "^8.2.1",
     "sass": "^1.30.0",
