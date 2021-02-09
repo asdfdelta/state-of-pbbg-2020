@@ -12,7 +12,7 @@
     <Header />
     <MissionStatement />
     <div class="start-survey">
-        <a href="https://forms.gle/36tmV18Uix5X2zos5"><Button block size="x-large" class="white black-text">Start Survey</Button></a>
+        <a href="https://blog.pbbg.com/the-state-of-pbbg-2021-survey-results/"><Button block size="x-large" class="white black-text">View Survey Results</Button></a>
     </div>
     <Social />
     <Resources />

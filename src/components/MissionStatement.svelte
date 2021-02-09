@@ -9,8 +9,6 @@
     a better gaming world.
 </p>
 
-<p>Click the button below to take the survey and share this to help reach as many people as possible!</p>
-
 <style>
 
 </style>
